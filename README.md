@@ -82,11 +82,11 @@ Provisioned an Azure Database for MySQL Flexible Server instance and verified su
 
 ---
 
-### Step 2: Validate Connectivity Using MySQL Workbench
+### Step 2: Validate Connectivity Using MySQL Workbench 
 
 Established a connection from MySQL Workbench to the Azure MySQL Flexible Server using the configured endpoint and administrative credentials.
 
-![MySQL Workbench Connection](images/mysql-workbench.png)
+![MySQL Workbench Connection](images/test-add-connection-workbench.png)
 
 *Successful database connection established via MySQL Workbench to the Azure Database for MySQL Flexible Server.*
 
